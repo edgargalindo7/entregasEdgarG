@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T20:49:18Z" name="Default suite" finished-at="2022-08-25T20:49:41Z" duration-ms="22507">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T20:49:18Z" name="Default test" finished-at="2022-08-25T20:49:41Z" duration-ms="22507">
+      <class name="EjerciciosEdgarG.PF_POMPTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:EjerciciosEdgarG.PF_POMPTest@35dab4eb]" started-at="2022-08-25T20:49:18Z" name="beforeTest" finished-at="2022-08-25T20:49:20Z" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test01()[pri:0, instance:EjerciciosEdgarG.PF_POMPTest@35dab4eb]" started-at="2022-08-25T20:49:20Z" name="test01" finished-at="2022-08-25T20:49:41Z" duration-ms="20711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:EjerciciosEdgarG.PF_POMPTest@35dab4eb]" started-at="2022-08-25T20:49:41Z" name="afterTest" finished-at="2022-08-25T20:49:41Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- EjerciciosEdgarG.PF_POMPTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

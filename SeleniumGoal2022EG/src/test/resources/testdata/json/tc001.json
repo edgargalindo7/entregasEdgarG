@@ -1,0 +1,14 @@
+{
+	"tc001":{
+		"computer":"ACE"
+	},
+	"test001" : {
+		"name": "Computadora1000",
+		"introduced":"2021-07-13",
+		"discontinued": "2022-08-13"
+	
+	}
+		
+		
+
+}
